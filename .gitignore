@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Buildozer
+.buildozer/
+bin/
+*.log
+
+# Cython
+*.c
+
+# Audio files
+*.wav
+voice.wav
+
+# Environment
+.env
+.env.local
+
+# Kivy
+.kivy/
+
+# Android
+.gradle/
+local.properties
